@@ -1,0 +1,14 @@
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\bin\Debug\AliceLyC968.exe.config
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\bin\Debug\AliceLyC968.exe
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\bin\Debug\AliceLyC968.pdb
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.csproj.AssemblyReference.cache
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.MainScreen.resources
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.Properties.Resources.resources
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.csproj.GenerateResource.cache
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.csproj.CoreCompileInputs.cache
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.exe
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.pdb
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.AddPart.resources
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.ModifyPart.resources
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.AddProduct.resources
+C:\Users\alice\Documents\WGU\C968\AliceLyC968\AliceLyC968\obj\Debug\AliceLyC968.ModifyProduct.resources
